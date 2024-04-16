@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>猫の種類・ランキング</title>
+        <h1 class="shurui">猫の種類</h1>
+        <h1 class="mokuji">目次</h1>
+<div class="mokujimatome">
+        <a class="agyou" href="#agyou">ア行</a><br>
+        <a class="kagyou" href="#kagyou">カ行</a><br>
+        <a class="sagyou" href="#sagyou">サ行</a><br>
+</div>
+        <link href="https://fonts.googleapis.com/earlyaccess/hannari.css">
+        <link rel="stylesheet" href="cat.css">
+    </head>
+
+    <body>
+            
+        </style>
+        <h1 class="a" id="agyou">ア行</h1>
+        <h2 class="catname">アビシニアン</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/abyssinian1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-4.5キロ</h1>
+
+
+        <h2 class="catname">アメリカンカール</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/american_curl1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛・長毛 体重は、2.5-4.5キロ</h1>
+
+        <h2 class="catname">アメリカンワイヤーヘア</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/american_wirehair1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、3-5キロ</h1>
+
+        <h2 class="catname">アメリカンボブテイル</h2>
+        <img src="https://www.koneko-navi.jp/column/wp-content/uploads/2022/05/qZA71ICVXFNl0Rl1652853915_1652853927.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>中毛・長毛で、体重は、3.5-6.5キロ</h1>
+        
+        <h2 class="catname">エキゾチックショートヘア</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/exotic1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-6.5キロ</h1>
+        
+        <h2 class="catname">エジプシャンマウ</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/egyptian_mau1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-6.5キロ</h1>
+        
+        <h2 class="catname">オシキャット</h2>
+        <img src="https://nekorich.com/wp-content/uploads/2018/09/s_hd_c_ocicat_1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、3-6.5キロ</h1>
+
+        <h2 class="catname">オリエンタル</h2>
+        <img src="https://cat-press.com/wp/wp-content/uploads/2016/04/oriental-compressor.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛-長毛で、体重は、2.5-4.5キロ</h1>
+
+        <h1 class="k" id="kagyou">カ行</h1>        
+        
+        <h2 class="catname">キムリック</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/cymric1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>長毛で、体重は、3-6キロ</h1>
+        
+        <h2 class="catname">コーニッシュレックス</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/cornish_rex1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.2-4キロ</h1>
+
+        <h2 class="catname">コラット</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/korat1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-4.5キロ</h1>
+    
+        <h1 class="s" id="sagyou">サ行</h1>  
+        
+        <h2 class="catname">サイベリアン</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/siberian1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>長毛で、体重は、4.5-9キロ</h1>
+
+        <h2 class="catname">ジャパニーズボブテイル</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/japanese_bobtail1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛・長毛で、体重は、3-5.5キロ</h1>
+
+        <h2 class="catname">シャム</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/siamese1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-4キロ</h1>
+
+        <h2 class="catname">シャルトリュー</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/chartreux1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-6.5キロ</h1>
+
+        <h2 class="catname">シンガプーラ</h2>
+        <img src="https://image.petokoto.com/media/2019/09/IMG_8654.JPG">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2-3.5キロ</h1>
+
+        <h2 class="catname">スコティッシュフォールド</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/scottish_fold1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛・長毛で、体重は、2.5-6キロ</h1>
+
+        <h2 class="catname">スノーシュー</h2>
+        <img src="https://cdn.wanchan.jp/c/nekochan.jp/pro/resize/400x400/100/7/49f18f49288fffa383e60af0c2544ba8.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-6.5キロ</h1>
+
+        <h2 class="catname">スフィンクス</h2>
+        <img src="https://coo-animal.com/up_img/1508480433-tZVBnI4J.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>無毛。体重は、2.5-4キロ</h1>
+
+        <h2 class="catname">セルカークレックス</h2>
+        <img src="https://catcrest.com/wp-content/uploads/S__173768753-768x576.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛・長毛で、体重は、3-7キロ</h1>
+
+        <h2 class="catname">ソマリ</h2>
+        <img src="https://www.anicom-sompo.co.jp/nekonoshiori/wp-content/uploads/2020/01/1718_3.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>長毛で、体重は、2.5-4.5キロ</h1>
+
+        <h1 class="t" id="tagyou">タ行</h1>  
+
+        <h2 class="catname">コラット</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/korat1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-4.5キロ</h1>
+
+        <h2 class="catname">コラット</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/korat1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-4.5キロ</h1>
+
+        <h2 class="catname">コラット</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/korat1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-4.5キロ</h1>
+
+        <h2 class="catname">コラット</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/korat1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-4.5キロ</h1>
+
+        <h2 class="catname">コラット</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/korat1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-4.5キロ</h1>
+
+        <h2 class="catname">コラット</h2>
+        <img src="https://www.konekono-heya.com/syurui/images/korat1.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>短毛で、体重は、2.5-4.5キロ</h1>
+    
+    
+    <h1 class="rankingu">飼い猫の人気ランキング！</h1>
+    <h1 class="catname">1位  スコティッシュ・フォールド</h1>
+    <h1 class="catname">2位  マンチカン</h1>
+    <h1 class="catname">3位	 混血猫</h1>
+    <h1 class="catname">4位	 アメリカン・ショートヘア</h1>
+    <h1 class="catname">5位	 ノルウェージャン・フォレスト・キャット</h1>
+    <h1 class="catname">6位	 ブリティッシュ・ショートヘア</h1>
+    <h1 class="catname">7位	 ラグドール</h1>
+    <h1 class="catname">8位	 ミヌエット</h1>
+    <h1 class="catname">9位	 ベンガル</h1>
+    <h1 class="catname">10位 サイベリアン</h1>
+
+        <h1 class="bangaihen">番外編</h1>
+        <h2 class="catname san">サン</h2>
+        <img width="45%" height="45%" src="file:///C:/Users/uy031/OneDrive/Desktop/IMG20230220143825.jpg">
+        <h1 class="onoonolast"><div class="database">datebase</div><br>中毛で、体重は3.8kg</h1>
+        <h2 class="catname">パウ</h2>
+        <img src="file:///C:/Users/uy031/OneDrive/Desktop/IMG20230215105800.jpg" width="45%" height="45%">
+        <h1 class="onoonolast"><div class="datebase">datebase</div><br>中毛で、体重は4.2kg</h1>
+
+        <h1 class="shurui">作者が好きな猫の種類</h1>
+        <h2 class="catname">No.1マンチカン</h2>
+        <img src="https://petpetlife.com/wp-content/uploads/2017/08/91f0204772e551cf641ba41211f8d36f.jpg" width="45%" height="45%">
+        <h1 class="onoonolast"><div class="datebase">好きなところ</div><br>足が短いところが好き。</h1>
+        
+        <h2 class="catname">No.2</h2>
+    </body>
+</html>
